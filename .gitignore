@@ -1,4 +1,6 @@
-cartpole_mod
-logs
-save
-layer*.ipynb
+cartpole_mod/
+logs/
+save/
+layer2.ipynb
+layer3.ipynb
+layer4.ipynb
